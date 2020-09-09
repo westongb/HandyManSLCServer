@@ -1,0 +1,202 @@
+[
+ 
+    {"ServiceType":"Electrical",
+
+    "ServiceName":"Light Fixtures",
+    "ServiceImg":"",
+    "ServiceDescription":    "We will replace your old light fixtures with the new ones you just purchased, no problems.  But if you want to fix a broken fixture, let us take a look and we may be able to repair it."
+    },
+
+    {"ServiceType":"Electrical",
+
+        "ServiceName":"Ceiling Fans",
+        "ServiceDescription":   " Want to save air conditioning costs? We would be happy to install a new ceiling fan that will provide cooling air in the summer and an even heat in the winter."
+        },
+
+    {"ServiceType":"Electrical",
+
+            "ServiceName":"Light Switches",
+            "ServiceDescription":    "Light switches are mechanical devices and they can wear out.  We can replace them and restore when they have failed and need replacement."
+    },
+
+    {"ServiceType":"Electrical",
+
+        "ServiceName":"Outlets",
+        "ServiceDescription":    "We can replace Electrical outlets both inside and outside."
+                },
+
+    {"ServiceType":"Electrical",
+
+        "ServiceName":"CO2 & Smoke Detectors",
+        "ServiceDescription":    "These detectors need periodic maintenance and are often not installed in the proper locations.  We will be happy to replace or repair these devices."
+            },
+    {"ServiceType":"Electrical",
+        
+        "ServiceName":"Lamp Repair",
+        "ServiceDescription":    "Top of the lamp loose and hanging?  These are problems that can usually be repaired with just a little work, let us take a look."
+                        },
+
+    {"ServiceType":"Furniture",
+
+        "ServiceName":"Ikea",
+        "ServiceImg":"",
+        "ServiceDescription":    "Assembling Ikea furniture is a speciality.  Reading and understanding those instructions can be intimidating but with our experience you will be sure to have your furniture quickly and properly erected as the Ikea engineers designed."
+        },
+
+        {"ServiceType":"Furniture",
+
+            "ServiceName":"Sofa and Chair repair",
+            "ServiceDescription":   " Often furniture’s broken ‘bones’ can be repaired and be made stronger than originally designed.  We have repaired many sofa’s, chairs and expensive lift chairs."
+            },
+
+        {"ServiceType":"Furniture",
+
+                "ServiceName":"Tables and wooden furniture",
+                "ServiceDescription":    "Can be refinished and repaired to brand new condition.  This includes both veneer or solid wooden tables that have split of been damaged"
+        },
+
+        {"ServiceType":"Landscaping ",
+
+            "ServiceName":"Leaves",
+            "ServiceDescription":    "Leaves are so colorful on the trees, and not even too bad as they lay on the ground turning it orange and red.  However, they can kill the grass and cause disease on the lawn and so should not be left on the ground for the winter.  We can help by blowing them into piles and removing them from the yard."
+                    },
+
+        {"ServiceType":"Landscaping",
+
+            "ServiceName":"Rain Gutter Cleaning",
+            "ServiceDescription":    "Cleaning rain gutters long ignored needs more than a leaf blower, but can require manual shoveling to remove dirt and decomposed leaves and sticks.  We will get them clean and can repair the gutters as we go."
+                },
+        {"ServiceType":"Landscaping",
+            
+            "ServiceName":"Deck Staining",
+            "ServiceDescription": "Staining a deck is the easy part.  Removing the old paint/stain is often the most tedious and difficult part - that’s not a problem for us, we will do the job right."
+                            },
+        {"ServiceType":"Landscaping",
+
+            "ServiceName":"Fence Repair",
+            "ServiceDescription":    "4 X 4 posts are pretty but after a few years they can rot out and you are left with a fence that will blow over in a mild wind.  We can fix that, making the fence stronger that it was originally."
+                },
+        {"ServiceType":"Landscaping",
+            
+            "ServiceName":"Sprinkler Repair",
+            "ServiceDescription": "We can repair broken sprinklers and reprogram troublesome control systems."
+                            },
+        {"ServiceType":"Landscaping",
+
+            "ServiceName":"Winterize Sprinklers",
+            "ServiceDescription":    "Most sprinkler systems have automatic drains which remove the water from the lines once they are done for the day or the season.  But, they don’t always work, and it is a good idea to blow the lines out and remove all water prior to winter.  This can save a lot of problems."
+                },
+        {"ServiceType":"Odd Jobs",
+
+            "ServiceName":"Child Proofing",
+            "ServiceDescription":    "Keeping children safe is a full time job that can be helped by keeping them from cupboards, electrical outlets, cords and stairs. We can help!"
+                },
+
+        {"ServiceType":"Odd Jobs",
+
+            "ServiceName":"Child Proofing",
+            "ServiceDescription":    "installing stabilizing bars, ramps and access platforms can be more than convenient, they can allow life and lifestyle."
+                },
+     
+        {"ServiceType":"Odd Jobs",
+
+            "ServiceName":"Not On the List?",
+            "ServiceDescription":    "If your problem doesn't appear on our list of services, request a quote and we can find a solution to whatever you need."
+                },
+                {"ServiceType":"Plumbing",
+
+                    "ServiceName":"Toilets",
+                    "ServiceDescription":    "Is it leaking? Failing to flush? Running water all the time? Need replacement? We can fix all of these problems and dispose of your old toilet if necessary."
+                        },
+                {"ServiceType":"Plumbing",
+        
+                    "ServiceName":"Sinks:",
+                    "ServiceDescription":    "Tired of chipped sinks that have a difficult time holding water? We can install a new one of  your choice."
+                        },
+        
+                {"ServiceType":"Plumbing",
+        
+                    "ServiceName":"Drains (P-Traps):",
+                    "ServiceDescription":    "The essential plumbing under the sink often requires some attention and replacement. The P-Trap catches not only lost rings but often plugs with hair and soap scum and needs to be cleaned."
+                        },
+             
+                {"ServiceType":"Plumbing",
+        
+                    "ServiceName":"Faucets",
+                    "ServiceDescription":    "Don’t live with a dripping faucet, repair it for half the price of replacing it if you repair it quickly and don’t let that drip turn into a stream."
+                        }     ,      
+                        {"ServiceType":"Plumbing:",
+        
+                            "ServiceName":"Shower/Tub",
+                            "ServiceDescription":    "Want a new shower head, or want to add a remote hand held shower head then we can help. But we do not currently replace shower stalls or tubs."
+                                },
+                
+                        {"ServiceType":"Plumbing",
+                
+                            "ServiceName":"Disposal:",
+                            "ServiceDescription":    "Installing a new garbage disposal can be done as a replacement or as a new install."
+                                },
+                     
+                        {"ServiceType":"Plumbing",
+                
+                            "ServiceName":"Calking/Sealing",
+                            "ServiceDescription":    "We can get rid of that molded calking around your tub or kitchen cabinets. Who wants that yuck around their bath or kitchen?"
+                                },
+                {"ServiceType":"Interior",
+        
+                    "ServiceName":"Painting:",
+                    "ServiceDescription":    "Closets, Hallways, Ceilings, Walls and Trim. Always Primed and well coated for long lasting results. Using brush, roller or spay, which ever is best for the job."
+                        },
+                             
+                    {"ServiceType":"Interior",
+                        
+                    "ServiceName":"Sealing:",
+                    "ServiceDescription":    "Shower and tile surfaces should be resealed periodically to protect the tile and the grout. Most don’t - and eventually suffer the consequences of mold staining and even grout failure."
+                        }     ,      
+                {"ServiceType":"Interior:",
+                        
+                        "ServiceName":"Carpet Repair",
+                        "ServiceDescription":    "Many carpet problems can be resolved with the right tools, heat or chemicals. It often costs very little to repair a carpet without the need to replace it."
+                                                },
+                                
+                {"ServiceType":"Interior",
+                                
+                    "ServiceName":"Floor Repair",
+                    "ServiceDescription":    "If you have old matching tiles laying around it is easy to replace old broken and cracked tiles. And wood floors can be refinished for much less than replacement."
+                        },
+                                     
+            {"ServiceType":"Interior",
+    
+                "ServiceName":"Wall Mounting",
+                "ServiceDescription":    "Will properly mount TV’s,, Pictures, and Mirrors. Sometimes we all need help when mounting a 60 inch TV!"
+                    } ,
+        {"ServiceType":"Interior",
+                    
+            "ServiceName":"Doors and Knobs",
+            "ServiceDescription":    "Stiff and worn door knobs can often quickly and easily be repaired. But if not, then their replacement is even easier."
+                },
+                                
+    {"ServiceType":"Interior",
+
+        "ServiceName":"Cabinet Repair/Install",
+        "ServiceDescription":    "Doors broken or not operating properly? Its worth the effort to see if they can be repaired. Outdated look and need them recovered? (painted) We can do that. And yes, if necessary they can be replaced."
+            } ,  
+            {"ServiceType":"Interior",
+    
+                "ServiceName":"Drywall Repair",
+                "ServiceDescription":    "Teenage boys, pets and slammed doors can really mess up a wall, but don’t despair. There is no wall damage that can’t be repaired!"
+                    } ,
+        {"ServiceType":"Interior",
+                    
+            "ServiceName":"Window Repair",
+            "ServiceDescription":    "Fogged windows? First check and see if they are still under warranty and get them replaced for free if they are! Otherwise we can help. And we can also help with painted over or damaged windows. Let us take a  look and see what can be done."
+                },
+                                
+    {"ServiceType":"Interior",
+
+        "ServiceName":"Weather Stripping:",
+        "ServiceDescription":    "Tired of that cold air blowing around your outside doors and windows? We can install new appropriate weather stripping that can reduce your heating and air conditioning bills and keep your toes nice and warm."
+            } 
+                    
+
+                    ]
