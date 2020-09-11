@@ -40,14 +40,6 @@ app.use(express.json());
 app.use(cors());
 app.use(bodyParser());
 
-// app.use(serveStatic());
-// app.use(/./, (req, res) => express.static(path.join(__dirname, './public/index.html')));
-
-
-
-
-
-
 var config = {
     user: "postgres",
     password: "Abc123890",
@@ -104,14 +96,6 @@ async function readServices() {
 }
 
 console.log(environment)
-
-// if(process.env.NODE_ENV === 'production') {
-//   //Static folder
-//   app.use(express.static('/public'))
-
-  
-
-// }
 
 
 
