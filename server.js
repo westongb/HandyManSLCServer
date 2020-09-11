@@ -3,7 +3,7 @@ const express = require ("express");
 const {Pool, Client} = require('pg')
 const app = express();
 const cors = require("cors");
-const bodyParser = require("body-Parser");
+const bodyParser = require("body-parser");
 
 const path = require('path');
 const pool = new Pool();
