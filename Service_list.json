@@ -4,25 +4,25 @@
 
     "ServiceName":"Light Fixtures",
     "ServiceImg":"",
-    "ServiceDescription":    "We will replace your old light fixtures with the new ones you just purchased, no problems.  But if you want to fix a broken fixture, let us take a look and we may be able to repair it."
+    "ServiceDescription": "We will replace your old light fixtures with the new ones you just purchased, no problems.  But if you want to fix a broken fixture, let us take a look and we may be able to repair it."
     },
 
     {"ServiceType":"Electrical",
 
         "ServiceName":"Ceiling Fans",
-        "ServiceDescription":   " Want to save air conditioning costs? We would be happy to install a new ceiling fan that will provide cooling air in the summer and an even heat in the winter."
+        "ServiceDescription":   " Want to save air conditioning costs? We would be happy to install a new ceiling fan that will provide cooling air in the summer and even heat in the winter."
         },
 
     {"ServiceType":"Electrical",
 
             "ServiceName":"Light Switches",
-            "ServiceDescription":    "Light switches are mechanical devices and they can wear out.  We can replace them and restore when they have failed and need replacement."
+            "ServiceDescription":    "Light switches are mechanical devices and they can wear out.  We can replace and restore when they have failed and need replacement."
     },
 
     {"ServiceType":"Electrical",
 
         "ServiceName":"Outlets",
-        "ServiceDescription":    "We can replace Electrical outlets both inside and outside."
+        "ServiceDescription":    "We can replace electrical outlets both inside and outside."
                 },
 
     {"ServiceType":"Electrical",
@@ -33,26 +33,26 @@
     {"ServiceType":"Electrical",
         
         "ServiceName":"Lamp Repair",
-        "ServiceDescription":    "Top of the lamp loose and hanging?  These are problems that can usually be repaired with just a little work, let us take a look."
+        "ServiceDescription":    "Top of the lamp loose and hanging?  These are problems that can usually be repaired with just a little work. Let us take a look."
                         },
 
     {"ServiceType":"Furniture",
 
-        "ServiceName":"Ikea",
+        "ServiceName":"IKEA",
         "ServiceImg":"",
-        "ServiceDescription":    "Assembling Ikea furniture is a speciality.  Reading and understanding those instructions can be intimidating but with our experience you will be sure to have your furniture quickly and properly erected as the Ikea engineers designed."
+        "ServiceDescription":    "Assembling Ikea furniture is a speciality.  Reading and understanding those instructions can be intimidating but with our experience you will be sure to have your furniture quickly and properly assembled as the Ikea engineers designed."
         },
 
         {"ServiceType":"Furniture",
 
             "ServiceName":"Sofa and Chair repair",
-            "ServiceDescription":   " Often furniture’s broken ‘bones’ can be repaired and be made stronger than originally designed.  We have repaired many sofa’s, chairs and expensive lift chairs."
+            "ServiceDescription":   " Often furniture broken ‘bones’ can be repaired and be made stronger than originally designed.  We have repaired many sofas, chairs and expensive lift chairs."
             },
 
         {"ServiceType":"Furniture",
 
                 "ServiceName":"Tables and wooden furniture",
-                "ServiceDescription":    "Can be refinished and repaired to brand new condition.  This includes both veneer or solid wooden tables that have split of been damaged"
+                "ServiceDescription":    "Can be refinished and repaired to brand new condition.  This includes both veneer or solid wooden tables that have split or been damaged"
         },
 
         {"ServiceType":"Landscaping ",
@@ -94,8 +94,8 @@
 
         {"ServiceType":"Odd Jobs",
 
-            "ServiceName":"Child Proofing",
-            "ServiceDescription":    "installing stabilizing bars, ramps and access platforms can be more than convenient, they can allow life and lifestyle."
+            "ServiceName":"Accessibility",
+            "ServiceDescription":    "Installing stabilizing bars, ramps and access platforms can be more than convenient, they can allow safty and lifestyle."
                 },
      
         {"ServiceType":"Odd Jobs",
@@ -110,13 +110,13 @@
                         },
                 {"ServiceType":"Plumbing",
         
-                    "ServiceName":"Sinks:",
+                    "ServiceName":"Sinks",
                     "ServiceDescription":    "Tired of chipped sinks that have a difficult time holding water? We can install a new one of  your choice."
                         },
         
                 {"ServiceType":"Plumbing",
         
-                    "ServiceName":"Drains (P-Traps):",
+                    "ServiceName":"Drains(P-Traps)",
                     "ServiceDescription":    "The essential plumbing under the sink often requires some attention and replacement. The P-Trap catches not only lost rings but often plugs with hair and soap scum and needs to be cleaned."
                         },
              
@@ -133,7 +133,7 @@
                 
                         {"ServiceType":"Plumbing",
                 
-                            "ServiceName":"Disposal:",
+                            "ServiceName":"Disposal",
                             "ServiceDescription":    "Installing a new garbage disposal can be done as a replacement or as a new install."
                                 },
                      
@@ -145,13 +145,13 @@
                 {"ServiceType":"Interior",
         
                     "ServiceName":"Painting:",
-                    "ServiceDescription":    "Closets, Hallways, Ceilings, Walls and Trim. Always Primed and well coated for long lasting results. Using brush, roller or spay, which ever is best for the job."
+                    "ServiceDescription":    "Closets, Hallways, Ceilings, Walls and Trim. Always primed and well coated for long lasting results. Using brush, roller or spray, which ever is best for the job."
                         },
                              
                     {"ServiceType":"Interior",
                         
                     "ServiceName":"Sealing:",
-                    "ServiceDescription":    "Shower and tile surfaces should be resealed periodically to protect the tile and the grout. Most don’t - and eventually suffer the consequences of mold staining and even grout failure."
+                    "ServiceDescription":    "Shower and tile surfaces should be resealed periodically to protect the tile and the grout. If not, tile eventually suffers the consequences of mold staining and even grout failure."
                         }     ,      
                 {"ServiceType":"Interior:",
                         
@@ -168,7 +168,7 @@
             {"ServiceType":"Interior",
     
                 "ServiceName":"Wall Mounting",
-                "ServiceDescription":    "Will properly mount TV’s,, Pictures, and Mirrors. Sometimes we all need help when mounting a 60 inch TV!"
+                "ServiceDescription":    "Will properly mount TV’s, Pictures, and Mirrors. Sometimes we all need help when mounting a 60 inch TV!"
                     } ,
         {"ServiceType":"Interior",
                     
@@ -179,7 +179,7 @@
     {"ServiceType":"Interior",
 
         "ServiceName":"Cabinet Repair/Install",
-        "ServiceDescription":    "Doors broken or not operating properly? Its worth the effort to see if they can be repaired. Outdated look and need them recovered? (painted) We can do that. And yes, if necessary they can be replaced."
+        "ServiceDescription":    "Doors broken or not operating properly? It's worth the effort to see if they can be repaired. Outdated look and need them painted? We can do that. And yes, if necessary they can be replaced."
             } ,  
             {"ServiceType":"Interior",
     
@@ -194,8 +194,8 @@
                                 
     {"ServiceType":"Interior",
 
-        "ServiceName":"Weather Stripping:",
-        "ServiceDescription":    "Tired of that cold air blowing around your outside doors and windows? We can install new appropriate weather stripping that can reduce your heating and air conditioning bills and keep your toes nice and warm."
+        "ServiceName":"Weather Stripping",
+        "ServiceDescription":    "Tired of that cold air blowing through doors and window sills? We can install new appropriate weather stripping that can reduce your heating and air conditioning bills and keep your toes nice and warm."
             } 
                     
 
